@@ -1,0 +1,5 @@
+undspayaso = float(input("¿Cuántas unidades de payaso se venderán?: "))
+totalpayaso = float((undspayaso)*(112))
+undsmuneca = float(input("¿Cuántas unidades de muñecas se venderán?: "))
+totalmuneca = float((undsmuneca)*(75))
+print("El peso total en el paquete de payasos es " + str(totalpayaso) + " gramos y el peso total en el paquete de muñecas es " + str(totalmuneca) + " gramos")
